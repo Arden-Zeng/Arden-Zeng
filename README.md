@@ -1,4 +1,6 @@
-### Hi there 👋
+Hey there 👋
+
+I'm Arden, an aspiring software engineering interested in machine learning. Currently CS @ University of Waterloo.
 
 <!--
 **Arden-Zeng/Arden-Zeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
