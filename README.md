@@ -8,7 +8,7 @@ I don't use Github as often as I should, so this profile might change over the n
 
 Stuff I've built for myself / internships:
 - Client-side React Routing Library (With hooks!)
-- SSR/ISR/ISG Serverless React Framework
+- SSR/ISR/SSG Serverless React Framework
 - (In Progress / Prototyping) React Global State Management Library (Using `Object.defineProperty()` to dynamically create getters and setters at runtime + useSyncExternalStore)
   - Example Usage
   ```ts
